@@ -1,4 +1,4 @@
-readme_content = """# ⚽ Passa Bola  
+# ⚽ Passa Bola  
 
 O **Passa Bola** é uma plataforma digital criada para **promover igualdade e oportunidades no futebol feminino**, oferecendo uma solução inovadora para atletas, torcedores e organizadores de eventos esportivos.  
 
