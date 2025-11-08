@@ -2,8 +2,6 @@
 
 O **Passa Bola** é uma plataforma digital criada para **promover igualdade e oportunidades no futebol feminino**, oferecendo uma solução inovadora para atletas, torcedores e organizadores de eventos esportivos.  
 
-🔗 **Site em desenvolvimento:** [Clique aqui para acessar](https://5b93864b-bac7-4011-99bc-263937ba14ed-00-h4vqnz7kmavi.worf.replit.dev)  
-
 ---
 
 ## 🚀 Objetivo  
